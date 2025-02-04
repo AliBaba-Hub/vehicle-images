@@ -1,4 +1,4 @@
-# oVehicle Images
+# Vehicle Images
 
 **Up to date DLC:** The Chop Shop 1.68
 
